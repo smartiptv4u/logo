@@ -1,3 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+<channel id="TV1.MY">
+    <display-name lang="en">RTM TV1</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="TV2.MY">
+    <display-name lang="en">RTM TV2</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="Oky.MY">
+    <display-name lang="en">OKEY</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="TV3.MY">
+    <display-name lang="en">TV 3</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="TV7.MY">
+    <display-name lang="en">NTV 7</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="8TV.MY">
+    <display-name lang="en">八度空间</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="TV9.MY">
+    <display-name lang="en">TV 9</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="Jaz.News">
+    <display-name lang="en">Al Jazeera</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="Awa.MY">
+    <display-name lang="en">Astro Awani</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="Nau.MY">
+    <display-name lang="en">Astro Naura</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="Egg.MY">
+    <display-name lang="en">eGG Network</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  </tv>
 
-
-TV1 http://www.astro.com.my
